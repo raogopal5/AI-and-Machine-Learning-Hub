@@ -1,11 +1,12 @@
 About Alzheimer’s prediction:
+
 Alzheimer’s is a type of dementia that causes problems with memory, thinking and behavior.
 Symptoms usually develop slowly and get worse over time, becoming severe enough to interfere with daily tasks.
 
-Overview of analysis
-The goal of this analysis serves two purposes. The first one is to predict whether a patient has Alzheimer’s disease. The second is to identify individuals at risk of Alzheimer’s disease
-This project is uded to create predictive model to predict people have Alzemeria or not.
+Overview of analysis:
+The goal of this analysis serves two purposes. The first one is to predict whether a patient has Alzheimer’s disease. The second is to identify individuals at risk of Alzheimer’s disease:
 
+This project is uded to create predictive model to predict people have Alzemeria or not.
 
 Technology used in model are.
 -> Python
